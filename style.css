@@ -8,6 +8,14 @@ body{
     width: 120px;
     height: 60px;
 }
+.slider-bg2{
+    background-image: url("backgrounds/bg2.png");
+    background-repeat: no-repeat;
+    width: 90%;
+}
+.slider-bg2 img{
+    margin-left: 40px;
+}
 .carousel-indicators li {
 	box-sizing: content-box;
 	-ms-flex: 0 1 auto;
